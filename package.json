@@ -1,0 +1,19 @@
+{
+  "name": "meta-ruby-world",
+  "version": "1.0.0",
+  "author": "dayup",
+  "license": "MIT",
+  "homepage": "./meta-ruby-world",
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build .",
+    "docs:deploy": "gh-pages -d .vuepress/dist"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.48",
+    "gh-pages": "^3.2.3"
+  },
+  "dependencies": {
+    "vuepress-theme-hope": "^2.0.0-beta.84"
+  }
+}
