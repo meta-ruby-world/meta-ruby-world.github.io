@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://github.com/xxx/meta-ruby-world/sitemap.xml
+Sitemap: https://github.com/xxx/sitemap.xml
