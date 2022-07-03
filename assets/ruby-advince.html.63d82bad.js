@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,c}from"./app.e4f5ef09.js";const t={};function o(_,n){return r(),c("div")}var i=e(t,[["render",o],["__file","ruby-advince.html.vue"]]);export{i as default};
