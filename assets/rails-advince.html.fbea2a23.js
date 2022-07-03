@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,c}from"./app.bcc0f34d.js";const t={};function a(o,_){return r(),c("div")}var s=e(t,[["render",a],["__file","rails-advince.html.vue"]]);export{s as default};
