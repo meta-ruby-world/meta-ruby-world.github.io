@@ -29,7 +29,7 @@ features:
     link: /gems
 
 copyright: false
-footer: MIT Licensed | Copyright © 2022-present KillBody
+footer: MIT Licensed | Copyright © 2022-present TL
 ---
 <!-- 
 这是项目主页的案例。你可以在这里放置你的主体内容。

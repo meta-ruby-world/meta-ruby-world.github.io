@@ -3,18 +3,18 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://github.com/xxx",
+  hostname: "https://meta-ruby-world.github.io",
 
   author: {
-    name: "KillBody",
-    url: "https://github.com/xxx",
+    name: "TL",
+    url: "https://github.com/meta-ruby-world/meta-ruby-world.github.io",
   },
 
   iconAssets: "iconfont",
 
   logo: "/logo.svg",
 
-  repo: "github.com/xxx",
+  repo: "github.com/meta-ruby-world/meta-ruby-world.github.io",
 
   docsDir: "demo/src",
 
@@ -106,7 +106,7 @@ export default hopeTheme({
     mdEnhance: {
       enableAll: true,
       presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
+        plugins: ["highlight", "math", "search", "notes"],
       },
     },
   },
