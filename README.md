@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: Home
-heroImage: /logo.svg
+heroImage: /logo.png
 heroText: MetaRuby
 tagline: Meta Ruby everything
 actions:

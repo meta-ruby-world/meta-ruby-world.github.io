@@ -12,9 +12,9 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/logo.png",
 
-  repo: "github.com/meta-ruby-world/meta-ruby-world.github.io",
+  repo: "https://github.com/meta-ruby-world/meta-ruby-world.github.io",
 
   docsDir: "demo/src",
 
@@ -74,7 +74,7 @@ export default hopeTheme({
 
   plugins: {
     blog: {
-      autoExcerpt: false,
+      autoExcerpt: true,
     },
 
     // 如果你不需要评论，可以直接删除 comment 配置，
